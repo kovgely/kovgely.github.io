@@ -1,0 +1,91 @@
+body{
+  width: 1278px;
+}
+
+img{
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+
+#name{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 35px;
+  margin: 0;
+  border: none;
+  padding: 0;
+}
+
+#anakin{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 60px;
+  margin: 0;
+  border: none;
+  padding: 0;
+}
+
+.heading{
+  position: absolute;
+  color: #222;
+  bottom: 45px;
+  left: 350px;
+}
+
+.picture{
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.summary{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  width: 620px;
+  margin: auto;
+   
+}
+
+.quotation{
+  background: dimgray;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 45px;
+  margin: auto;
+  width: 705px;
+  height: 150px;
+  text-align: center;
+}
+
+#quote{
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 60px;
+}
+
+.head{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+h3{
+  font-family: 'Merriweather', serif;
+  color: #222;
+}
+
+ul{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+.about{
+  width: 812px;
+  margin: auto;
+}
